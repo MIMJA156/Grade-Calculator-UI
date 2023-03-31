@@ -1,0 +1,25 @@
+td{
+  vertical-align: middle;
+}
+
+.editButton,
+.deleteButton {
+	padding: 0;
+	border: none;
+	background: none;
+	font-size: 25px;
+}
+
+.bi-pencil-square {
+	transition-duration: 0.2s;
+}
+.bi-pencil-square:hover {
+	color: #5298ff;
+}
+
+.bi-x-lg {
+	transition-duration: 0.2s;
+}
+.bi-x-lg:hover {
+	color: #f73a36;
+}

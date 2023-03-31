@@ -1,0 +1,90 @@
+[
+	{
+		"name": "3: AIMS Networking I: Network+",
+		"grade": "0.0%",
+		"weighting": null
+	},
+	{
+		"name": "4: AIMS Intro PC Applications",
+		"grade": "0.0%",
+		"weighting": null
+	},
+	{
+		"name": "1: College Trig and Analytic Geo S2",
+		"grade": "84.0%",
+		"weighting": {
+			"Classwork": 10,
+			"Final Exam": 20,
+			"Homework": 10,
+			"Test/Quizzes": 60,
+			"TOTAL": 100
+		},
+		"assignments": [
+			{
+				"name": "pg. 476",
+				"type": "Homework",
+				"score": "10",
+				"total": "10.0000"
+			},
+			{
+				"name": "7.1 - 7.3 Review",
+				"type": "Homework",
+				"score": "0",
+				"total": "10.0000"
+			},
+			{
+				"name": "7.1 - 7.3 Test",
+				"type": "Test/Quizzes",
+				"score": "27",
+				"total": "50.0000"
+			},
+			{
+				"name": "7.1-7.3 Partner Test",
+				"type": "Classwork",
+				"score": "26",
+				"total": "26.0000"
+			},
+			{
+				"name": "pg 466: 13 - 30 all, skip 27, 28",
+				"type": "Homework",
+				"score": "0",
+				"total": "10.0000"
+			},
+			{
+				"name": "pg. 466: 37 - 42 all",
+				"type": "Homework",
+				"score": "0",
+				"total": "10.0000"
+			},
+			{
+				"name": "Climate Change Project - Sinusoidal Regressions with climate data",
+				"type": "Classwork",
+				"score": "25",
+				"total": "25.0000"
+			},
+			{
+				"name": "Quarter 3 Classwork",
+				"type": "Classwork",
+				"score": "106.2",
+				"total": "130.0000"
+			},
+			{
+				"name": "Quarter 3 Homework",
+				"type": "Homework",
+				"score": "200",
+				"total": "260.0000"
+			},
+			{
+				"name": "Quarter 3 Test/Quizzes",
+				"type": "Test/Quizzes",
+				"score": "175.5",
+				"total": "186.0000"
+			}
+		]
+	},
+	{
+		"name": "2: American Government",
+		"grade": "0.0%",
+		"weighting": null
+	}
+]
